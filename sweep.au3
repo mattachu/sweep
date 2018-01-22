@@ -15,7 +15,7 @@
 
  Script Function:
     Create a batch of input files from a batch definition file and a template
-	Based on sweep v0.4.4.0
+	Based on sweepLORASR v0.4.4.0
 
 #ce ----------------------------------------------------------------------------
 
